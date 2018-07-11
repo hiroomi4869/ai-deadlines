@@ -5,7 +5,7 @@ author: YANG Jiancheng
 maintainers: duducheng
 
 domain: "creedai.github.io/ai-deadlines/"
-baseurl: ""
+baseurl: "ai-deadlines"
 
 github_username: creedai
 github_repo: ai-deadlines
