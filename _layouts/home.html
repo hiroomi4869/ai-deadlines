@@ -100,26 +100,26 @@
         });
         $('#{{conf.id}} .deadline-time').html(confDate.toString());
 
-        // add calendar button
-        var myCalendar = createCalendar({
-          options: {
-            class: 'calendar-obj',
+        // // add calendar button
+        // var myCalendar = createCalendar({
+        //   options: {
+        //     class: 'calendar-obj',
 
-            // You can pass an ID. If you don't, one will be generated for you
-            id: '{{conf.id}}'
-          },
-          data: {
-            // Event title
-            title: '{{conf.name}} {{conf.year}} deadline',
+        //     // You can pass an ID. If you don't, one will be generated for you
+        //     id: '{{conf.id}}'
+        //   },
+        //   data: {
+        //     // Event title
+        //     title: '{{conf.name}} {{conf.year}} deadline',
 
-            // Event start date
-            start: confDate.toDate(), // new Date('June 15, 2013 19:00'),
+        //     // Event start date
+        //     start: confDate.toDate(), // new Date('June 15, 2013 19:00'),
 
-            // Event duration
-            duration: 60,
-          }
-        });
-        document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
+        //     // Event duration
+        //     duration: 60,
+        //   }
+        // });
+        // document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
 
         // check if date has passed, add 'past' class to it
         var today = moment();
