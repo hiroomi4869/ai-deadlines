@@ -47,9 +47,59 @@
   link: https://ipmi2019.cse.ust.hk/
   deadline: "2018-12-03 23:59:59"
   timezone: US/Pacific
-  date: Jun 2-7, 2019
+  date: June 2-7, 2019
   place: HKUST, Hong Kong
   sub: MIC
+
+- name: IJCAI (TBA)
+  year: 2019
+  id: ijcai19
+  link: TBA
+  deadline: "2019-01-15 23:59:59"
+  timezone: UTC
+  date: TBA
+  place: TBA
+  sub: ML
+
+- name: ICML (TBA)
+  year: 2019
+  id: ICML19
+  link: TBA
+  deadline: "2019-02-15 23:59:59"
+  timezone: UTC
+  date: TBA
+  place: TBA
+  sub: ML
+
+- name: KDD (TBA)
+  year: 2019
+  id: kdd19
+  link: TBA
+  deadline: "2019-02-15 23:59:59"
+  timezone: UTC
+  date: TBA
+  place: TBA
+  sub: ML
+
+- name: MICCAI (TBA)
+  year: 2019
+  id: miccai19
+  link: TBA
+  deadline: "2019-03-15 23:59:59"
+  timezone: UTC
+  date: TBA
+  place: TBA
+  sub: MIC
+
+- name: ICCV (TBA)
+  year: 2019
+  id: iccv19
+  link: TBA
+  deadline: "2019-03-30 23:59:59"
+  timezone: UTC
+  date: TBA
+  place: TBA
+  sub: CV
 
 - name: CVPR
   year: 2018
@@ -130,16 +180,6 @@
   date: September 8-14, 2018
   place: Munich, Germany
   sub: CV
-
-- name: Interspeech
-  year: 2018
-  id: interspeech18
-  link: http://interspeech2018.org/
-  deadline: "2018-03-23 23:59:59"
-  timezone: Etc/GMT
-  date: September 2-6, 2018
-  place: Hyderabad, India
-  sub: SP
 
 - name: BMVC
   year: 2018
