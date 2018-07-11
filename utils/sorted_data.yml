@@ -11,6 +11,16 @@
   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
   sub: ML
 
+- name: T-PAMI Call for RGB-D
+  year: 2019
+  id: pamirgbd
+  link: http://yulanguo.me/pami.html
+  deadline: "2018-09-20 23:59:59"
+  timezone: UTC
+  date: March 20, 2019
+  place: T-PAMI
+  sub: CV
+
 - name: ICLR (TBA)
   year: 2019
   id: iclr19
@@ -23,13 +33,23 @@
 
 - name: CVPR (TBA)
   year: 2019
-  id: iclr19
+  id: cvpr19
   link: http://cvpr2019.thecvf.com/
-  deadline: "2019-11-15 23:59:59"
+  deadline: "2018-11-15 23:59:59"
   timezone: UTC
   date: June 15 - 21, 2019
   place: Long Beach, CA
   sub: CV
+
+- name: IPMI
+  year: 2019
+  id: ipmi19
+  link: https://ipmi2019.cse.ust.hk/
+  deadline: "2018-12-03 23:59:59"
+  timezone: US/Pacific
+  date: Jun 2-7, 2019
+  place: HKUST, Hong Kong
+  sub: MIC
 
 - name: CVPR
   year: 2018
