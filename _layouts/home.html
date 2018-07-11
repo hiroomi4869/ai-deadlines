@@ -10,7 +10,7 @@
     <meta name="author" content="{{ site.author }}">
     <link rel="stylesheet" type="text/css" href="{{ " /ai-deadlines/static/css/bootstrap.min.css " | prepend:site.baseurl }}">
     <link rel="stylesheet" type="text/css" href="{{ " /ai-deadlines/static/css/deadlines.css " | prepend:site.baseurl }}" media="screen,projection">
-    <link rel="shortcut icon" href="{{ " /static/img/favicon.png " | prepend:site.baseurl }}">
+    <link rel="shortcut icon" href="{{ " /ai-deadlines/static/img/favicon.png " | prepend:site.baseurl }}">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script type="text/javascript" src="{{ " /ai-deadlines/static/js/jquery.countdown.min.js " | prepend:site.baseurl }}"></script>
     <script src="{{ " /ai-deadlines/static/js/moment.min.js " | prepend:site.baseurl }}"></script>
@@ -25,13 +25,11 @@
     <div class="container">
         <div class="page-header">
             <div class="row">
-                <!-- <div class="col-xs-12 col-sm-8">
+                <div class="col-xs-12 col-sm-8">
                     <h1>
-                        {{ site.title }} <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.description }}{% if site.twitter_hashtag %} #{{ site.twitter_hashtag }}{% endif %}" data-show-count="false" style="font-size:13px;">Tweet</a>
-                        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+                        {{ site.title }}
                     </h1>
-                </div> -->
+                </div>
                 <div class="meta col-xs-12">
                     {{ site.description }} To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
                 </div>
