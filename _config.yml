@@ -4,8 +4,8 @@ description: Countdowns to top ML / CV / MIC conference and special call deadlin
 author: YANG Jiancheng
 maintainers: duducheng
 
-domain: "creedai.github.io"
-baseurl: ai-deadlines
+domain: "creedai.github.io/ai-deadlines/"
+baseurl: ""
 
 github_username: creedai
 github_repo: ai-deadlines
