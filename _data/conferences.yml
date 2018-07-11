@@ -41,6 +41,26 @@
   place: Brighton, UK
   sub: SP
 
+- name: ICLR
+  year: 2019
+  id: iclr19
+  link: http://iclr.cc/
+  deadline: TBA
+  timezone: America/Los_Angeles
+  date: TBA
+  place: TBA
+  sub: ML
+
+- name: ACL
+  year: 2019
+  id: acl19
+  link: http://acl2019.org/
+  deadline: TBA
+  timezone: Etc/GMT+12
+  date: July 28-August 2, 2019
+  place: Florence, Italy
+  sub: NLP
+
 - name: AAMAS
   year: 2018
   id: aamas18
@@ -240,23 +260,3 @@
   date: October 29-31, 2018
   place: Zurich, Switzerland
   sub: RO
-
-- name: ICLR
-  year: 2019
-  id: iclr19
-  link: http://iclr.cc/
-  deadline: TBA
-  timezone: America/Los_Angeles
-  date: TBA
-  place: TBA
-  sub: ML
-
-- name: ACL
-  year: 2019
-  id: acl19
-  link: http://acl2019.org/
-  deadline: TBA
-  timezone: Etc/GMT+12
-  date: July 28-August 2, 2019
-  place: Florence, Italy
-  sub: NLP
