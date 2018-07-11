@@ -1,16 +1,6 @@
 
 ---
 
-- name: CVPR (TBA)
-  year: 2019
-  id: iclr19
-  link: http://cvpr2019.thecvf.com/
-  deadline: "2019-11-15 23:59:59"
-  timezone: UTC
-  date: TBA
-  place: Long Beach, CA.
-  sub: CV
-
 - name: AAAI
   year: 2019
   id: aaai19
@@ -27,9 +17,19 @@
   link: http://iclr.cc/
   deadline: "2018-10-15 23:59:59"
   timezone: UTC
-  date: TBA
+  date: TBA, 2019
   place: TBA
   sub: ML
+
+- name: CVPR (TBA)
+  year: 2019
+  id: iclr19
+  link: http://cvpr2019.thecvf.com/
+  deadline: "2019-11-15 23:59:59"
+  timezone: UTC
+  date: June 15 - 21, 2019
+  place: Long Beach, CA
+  sub: CV
 
 - name: CVPR
   year: 2018
