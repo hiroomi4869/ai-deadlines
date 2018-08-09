@@ -21,22 +21,22 @@
   place: T-PAMI
   sub: SC
 
-- name: ICLR (TBA)
+- name: ICLR
   year: 2019
   id: iclr19
   link: http://iclr.cc/
-  deadline: "2018-10-15 23:59:59"
-  timezone: UTC
-  date: TBA, 2019
-  place: TBA
+  deadline: "2018-09-27 14:00:00"
+  timezone: US/Pacific
+  date: May 06 - 09, 2019
+  place: New Orleans
   sub: ML
 
-- name: CVPR (TBA)
+- name: CVPR
   year: 2019
   id: cvpr19
   link: http://cvpr2019.thecvf.com/
   deadline: "2018-11-16 23:59:59"
-  timezone: UTC
+  timezone: US/Pacific
   date: June 15 - 21, 2019
   place: Long Beach, CA
   sub: CV
