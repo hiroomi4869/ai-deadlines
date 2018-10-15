@@ -1,42 +1,12 @@
 
 ---
 
-- name: AAAI
-  year: 2019
-  id: aaai19
-  link: https://aaai.org/Conferences/AAAI-19/
-  deadline: "2018-09-05 23:59:59"
-  timezone: Etc/GMT+10
-  date: January 27 - February 1, 2019
-  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-  sub: ML
-
-- name: T-PAMI Call for RGB-D
-  year: 2019
-  id: pamirgbd
-  link: http://yulanguo.me/pami.html
-  deadline: "2018-09-20 23:59:59"
-  timezone: UTC
-  date: March 20, 2019
-  place: T-PAMI
-  sub: SC
-
-- name: ICLR (TBA)
-  year: 2019
-  id: iclr19
-  link: http://iclr.cc/
-  deadline: "2018-10-15 23:59:59"
-  timezone: UTC
-  date: TBA, 2019
-  place: TBA
-  sub: ML
-
-- name: CVPR (TBA)
+- name: CVPR
   year: 2019
   id: cvpr19
   link: http://cvpr2019.thecvf.com/
-  deadline: "2018-11-15 23:59:59"
-  timezone: UTC
+  deadline: "2018-11-16 23:59:59"
+  timezone: US/Pacific
   date: June 15 - 21, 2019
   place: Long Beach, CA
   sub: CV
@@ -46,59 +16,59 @@
   id: ipmi19
   link: https://ipmi2019.cse.ust.hk/
   deadline: "2018-12-03 23:59:59"
-  timezone: US/Pacific
+  timezone: Etc/GMT+8
   date: June 2-7, 2019
   place: HKUST, Hong Kong
   sub: MIC
 
-- name: IJCAI (TBA)
-  year: 2019
-  id: ijcai19
-  link: TBA
-  deadline: "2019-01-15 23:59:59"
-  timezone: UTC
-  date: TBA
-  place: TBA
-  sub: ML
-
-- name: ICML (TBA)
+- name: ICML
   year: 2019
   id: ICML19
-  link: TBA
-  deadline: "2019-02-15 23:59:59"
-  timezone: UTC
-  date: TBA
-  place: TBA
+  link: https://icml.cc/Conferences/2019
+  deadline: "2019-01-23 15:59:59"
+  timezone: US/Pacific
+  date: Jun 10-15, 2019
+  place: Long Beach Convention Center, Long Beach
   sub: ML
 
 - name: KDD (TBA)
   year: 2019
   id: kdd19
-  link: TBA
+  link: http://www.kdd.org/kdd2019
   deadline: "2019-02-15 23:59:59"
   timezone: UTC
-  date: TBA
-  place: TBA
+  date: August 3 - 7, 2019
+  place: Anchorage, Alaska - USA
+  sub: ML
+
+- name: IJCAI
+  year: 2019
+  id: ijcai19
+  link: https://www.ijcai19.org/
+  deadline: "2019-02-25 23:59:59"
+  timezone: Etc/GMT+8
+  date: August 10-16, 2019
+  place: Macao, China
   sub: ML
 
 - name: MICCAI (TBA)
   year: 2019
   id: miccai19
-  link: TBA
+  link: http://www.miccai2019.org/
   deadline: "2019-03-15 23:59:59"
-  timezone: UTC
-  date: TBA
-  place: TBA
+  timezone: Etc/GMT+8
+  date: October 13-17, 2019
+  place: Shenzhen, China
   sub: MIC
 
 - name: ICCV (TBA)
   year: 2019
   id: iccv19
-  link: TBA
+  link: http://iccv2019.thecvf.com/
   deadline: "2019-03-30 23:59:59"
   timezone: UTC
-  date: TBA
-  place: TBA
+  date: October 27 - November 3, 2019.
+  place: Seoul, Korea
   sub: CV
 
 - name: CVPR
@@ -199,4 +169,34 @@
   timezone: America/Los_Angeles
   date: December 3-8, 2018
   place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
+  sub: ML
+
+- name: AAAI
+  year: 2019
+  id: aaai19
+  link: https://aaai.org/Conferences/AAAI-19/
+  deadline: "2018-09-05 23:59:59"
+  timezone: Etc/GMT+10
+  date: January 27 - February 1, 2019
+  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+  sub: ML
+
+- name: T-PAMI Call for RGB-D
+  year: 2019
+  id: pamirgbd
+  link: http://yulanguo.me/pami.html
+  deadline: "2018-09-20 23:59:59"
+  timezone: UTC
+  date: March 20, 2019
+  place: T-PAMI
+  sub: SC
+
+- name: ICLR
+  year: 2019
+  id: iclr19
+  link: http://iclr.cc/
+  deadline: "2018-09-27 14:00:00"
+  timezone: US/Pacific
+  date: May 06 - 09, 2019
+  place: New Orleans
   sub: ML
