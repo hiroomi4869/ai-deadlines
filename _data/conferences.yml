@@ -55,8 +55,8 @@
   year: 2019
   id: miccai19
   link: http://www.miccai2019.org/
-  deadline: "2019-03-15 23:59:59"
-  timezone: Etc/GMT+8
+  deadline: "2019-03-29 00:00:00"
+  timezone: US/Pacific
   date: October 13-17, 2019
   place: Shenzhen, China
   sub: MIC
