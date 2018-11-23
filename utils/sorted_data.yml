@@ -1,21 +1,11 @@
 
 ---
 
-- name: CVPR
-  year: 2019
-  id: cvpr19
-  link: http://cvpr2019.thecvf.com/
-  deadline: "2018-11-16 23:59:59"
-  timezone: US/Pacific
-  date: June 15 - 21, 2019
-  place: Long Beach, CA
-  sub: CV
-
 - name: IPMI
   year: 2019
   id: ipmi19
   link: https://ipmi2019.cse.ust.hk/
-  deadline: "2018-12-03 23:59:59"
+  deadline: "2018-12-13 23:59:59"
   timezone: Etc/GMT+8
   date: June 2-7, 2019
   place: HKUST, Hong Kong
@@ -55,8 +45,8 @@
   year: 2019
   id: miccai19
   link: http://www.miccai2019.org/
-  deadline: "2019-03-15 23:59:59"
-  timezone: Etc/GMT+8
+  deadline: "2019-03-29 00:00:00"
+  timezone: US/Pacific
   date: October 13-17, 2019
   place: Shenzhen, China
   sub: MIC
@@ -200,3 +190,13 @@
   date: May 06 - 09, 2019
   place: New Orleans
   sub: ML
+
+- name: CVPR
+  year: 2019
+  id: cvpr19
+  link: http://cvpr2019.thecvf.com/
+  deadline: "2018-11-16 23:59:59"
+  timezone: US/Pacific
+  date: June 15 - 21, 2019
+  place: Long Beach, CA
+  sub: CV
