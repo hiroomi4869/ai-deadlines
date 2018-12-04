@@ -62,15 +62,6 @@
   place: Seoul, Korea
   sub: CV
 
-  - name: "EBM Call for Deep Learning in Ultrasound Imaging"
-  year: 2019
-  id: ebmdlui
-  link: https://jbhi.embs.org/special-issues/deep-learning-in-ultrasound-imaging/
-  deadline: "2019-04-30 23:59:59"
-  timezone: UTC
-  date: Sept 30, 2019
-  place: EMB
-  sub: SI
 
 - name: CVPR
   year: 2018
