@@ -26,8 +26,15 @@
           <div class="row">
               <div class="col-xs-12 col-sm-8">
                 <h1>
-                  {{ site.title }}
+                  {{ site.title }} 
                 </h1>
+
+                {% if site.remark %}
+                <small>
+                    {{ (site.remark) }}
+                </small>>
+                {% endif %}
+
               </div>
               <div class="meta col-xs-12">
                 {{ site.description }}.
@@ -86,7 +93,7 @@
       </div>
       {% endfor %}
       <footer>
-        Maintained by <a href="//github.com//{{ site.github_username }}//ai-deadlines">@{{ site.github_username }} / <a href="//github.com//{{ site.maintainers }}">@{{ site.maintainers }}</a>.
+        Maintained by <a href="//github.com/{{ site.github_username }}/ai-deadlines/">@{{ site.github_username }} / <a href="//github.com/{{ site.maintainers }}/">@{{ site.maintainers }}</a>.
       </footer>
       <hr>
   </div>
