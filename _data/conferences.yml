@@ -63,15 +63,15 @@
   sub: CV
 
   
-  # - name: EBM Call for Deep Learning in Ultrasound Imaging
-  # year: 2019
-  # id: ebmdlui
-  # link: https://jbhi.embs.org/special-issues/deep-learning-in-ultrasound-imaging/
-  # deadline: "2019-04-30 23:59:59"
-  # timezone: UTC
-  # date: September 30, 2019
-  # place: IEEE Journal of Biomedical and Health Informatics (IF 3.85)
-  # sub: SI
+- name: EBM Call for Deep Learning in Ultrasound Imaging
+  year: 2019
+  id: ebmdlui
+  link: https://jbhi.embs.org/special-issues/deep-learning-in-ultrasound-imaging/
+  deadline: "2019-04-30 23:59:59"
+  timezone: UTC
+  date: September 30, 2019
+  place: IEEE Journal of Biomedical and Health Informatics (IF 3.85)
+  sub: SI
 
 
 - name: CVPR
