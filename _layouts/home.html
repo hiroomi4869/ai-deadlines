@@ -64,6 +64,13 @@
                   {{conf.date}} // <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>
                 </div>
             </div>
+
+            {% if conf.note %}
+            <div class="note">
+              {{conf.note}}
+            </div>
+            {% endif %}
+
             <div class="col-xs-12 col-sm-6">
               <span class="timer"></span>
               <div class="deadline">

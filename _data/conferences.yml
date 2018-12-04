@@ -10,6 +10,7 @@
   date: June 2-7, 2019
   place: HKUST, Hong Kong
   sub: MIC
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href='https://icml.cc/Conferences/2019/CallForPapers'>here</a>."
 
 - name: ICML
   year: 2019
@@ -179,7 +180,7 @@
   timezone: UTC
   date: March 20, 2019
   place: T-PAMI
-  sub: SC
+  sub: SI
 
 - name: ICLR
   year: 2019

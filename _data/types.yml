@@ -5,5 +5,5 @@
   sub: CV
 - name: Medical Image Computing
   sub: MIC
-- name: Special Call
-  sub: SC
+- name: Special Issues
+  sub: SI
