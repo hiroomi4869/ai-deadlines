@@ -27,13 +27,12 @@
               <div class="col-xs-12 col-sm-8">
                 <h1>
                   {{ site.title }} 
+                  {% if site.remark %}
+                  <small>
+                      {{ (site.remark) }}
+                  </small>>
+                  {% endif %}
                 </h1>
-
-                {% if site.remark %}
-                <small>
-                    {{ (site.remark) }}
-                </small>>
-                {% endif %}
 
               </div>
               <div class="meta col-xs-12">
