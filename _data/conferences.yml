@@ -1,17 +1,6 @@
 
 ---
 
-- name: IPMI
-  year: 2019
-  id: ipmi19
-  link: https://ipmi2019.cse.ust.hk/
-  deadline: "2018-12-13 23:59:00"
-  timezone: US/Pacific
-  date: June 2-7, 2019
-  place: HKUST, Hong Kong
-  sub: MIC
-  note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 6, 2018. "
-
 - name: ICML
   year: 2019
   id: ICML19
@@ -62,7 +51,6 @@
   place: Seoul, Korea
   sub: CV
 
-  
 - name: Deep Learning in Ultrasound Imaging
   year: 2019
   id: ebmdlui
@@ -73,7 +61,6 @@
   place: EBM
   sub: SI
   note: IEEE Journal of Biomedical and Health Informatics (IF - 3.85)
-
 
 - name: CVPR
   year: 2018
@@ -215,3 +202,14 @@
   date: June 15 - 21, 2019
   place: Long Beach, CA
   sub: CV
+
+- name: IPMI
+  year: 2019
+  id: ipmi19
+  link: https://ipmi2019.cse.ust.hk/
+  deadline: "2018-12-13 23:59:00"
+  timezone: US/Pacific
+  date: June 2-7, 2019
+  place: HKUST, Hong Kong
+  sub: MIC
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 6, 2018. "
