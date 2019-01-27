@@ -1,16 +1,6 @@
 
 ---
 
-- name: ICML
-  year: 2019
-  id: ICML19
-  link: https://icml.cc/Conferences/2019
-  deadline: "2019-01-23 15:59:59"
-  timezone: US/Pacific
-  date: Jun 10-15, 2019
-  place: Long Beach Convention Center, Long Beach
-  sub: ML
-
 - name: KDD
   year: 2019
   id: kdd19
@@ -225,3 +215,13 @@
   place: HKUST, Hong Kong
   sub: MIC
   note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 6, 2018. "
+
+- name: ICML
+  year: 2019
+  id: ICML19
+  link: https://icml.cc/Conferences/2019
+  deadline: "2019-01-23 15:59:59"
+  timezone: US/Pacific
+  date: Jun 10-15, 2019
+  place: Long Beach Convention Center, Long Beach
+  sub: ML

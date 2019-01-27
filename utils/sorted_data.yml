@@ -1,16 +1,6 @@
 
 ---
 
-- name: ICML
-  year: 2019
-  id: ICML19
-  link: https://icml.cc/Conferences/2019
-  deadline: "2019-01-23 15:59:59"
-  timezone: US/Pacific
-  date: Jun 10-15, 2019
-  place: Long Beach Convention Center, Long Beach
-  sub: ML
-
 - name: KDD
   year: 2019
   id: kdd19
@@ -52,6 +42,16 @@
   sub: MIC
   note: "<b>NOTE</b>: Mandatory abstract deadline (more than 1 week ahead!): Midnight,
     Pacific Time, March 18th, 2019. "
+
+- name: ACM MM
+  year: 2019
+  id: acmmm19
+  link: https://www.acmmm.org/2019/
+  deadline: "2019-04-01 23:59:59"
+  timezone: UTC
+  date: October 21-25, 2019
+  place: Nice, France
+  sub: CV
 
 - name: Deep Learning in Ultrasound Imaging
   year: 2019
@@ -215,3 +215,13 @@
   place: HKUST, Hong Kong
   sub: MIC
   note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 6, 2018. "
+
+- name: ICML
+  year: 2019
+  id: ICML19
+  link: https://icml.cc/Conferences/2019
+  deadline: "2019-01-23 15:59:59"
+  timezone: US/Pacific
+  date: Jun 10-15, 2019
+  place: Long Beach Convention Center, Long Beach
+  sub: ML
