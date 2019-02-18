@@ -1,16 +1,6 @@
 
 ---
 
-- name: KDD
-  year: 2019
-  id: kdd19
-  link: http://www.kdd.org/kdd2019
-  deadline: "2019-02-03 23:59:59"
-  timezone: UTC
-  date: August 3 - 7, 2019
-  place: Anchorage, Alaska - USA
-  sub: ML
-
 - name: IJCAI
   year: 2019
   id: ijcai19
@@ -31,18 +21,6 @@
   place: Seoul, Korea
   sub: CV
 
-- name: MICCAI
-  year: 2019
-  id: miccai19
-  link: http://www.miccai2019.org/
-  deadline: "2019-03-29 00:00:00"
-  timezone: US/Pacific
-  date: October 13-17, 2019
-  place: Shenzhen, China
-  sub: MIC
-  note: "<b>NOTE</b>: Mandatory abstract deadline (more than 1 week ahead!): Midnight,
-    Pacific Time, March 18th, 2019. "
-
 - name: ACM MM
   year: 2019
   id: acmmm19
@@ -52,6 +30,18 @@
   date: October 21-25, 2019
   place: Nice, France
   sub: CV
+
+- name: MICCAI
+  year: 2019
+  id: miccai19
+  link: http://www.miccai2019.org/
+  deadline: "2019-04-02 00:00:00"
+  timezone: US/Pacific
+  date: October 13-17, 2019
+  place: Shenzhen, Chinals
+  sub: MIC
+  note: "<b>NOTE</b>: Mandatory abstract deadline (more than 1 week ahead!): Midnight,
+    Pacific Time, March 19th, 2019. "
 
 - name: Deep Learning in Ultrasound Imaging
   year: 2019
@@ -224,4 +214,14 @@
   timezone: US/Pacific
   date: Jun 10-15, 2019
   place: Long Beach Convention Center, Long Beach
+  sub: ML
+
+- name: KDD
+  year: 2019
+  id: kdd19
+  link: http://www.kdd.org/kdd2019
+  deadline: "2019-02-03 23:59:59"
+  timezone: UTC
+  date: August 3 - 7, 2019
+  place: Anchorage, Alaska - USA
   sub: ML
