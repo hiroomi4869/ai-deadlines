@@ -1,17 +1,6 @@
 
 ---
 
-- name: Deep Learning in Ultrasound Imaging
-  year: 2019
-  id: ebmdlui
-  link: https://jbhi.embs.org/special-issues/deep-learning-in-ultrasound-imaging/
-  deadline: "2019-04-30 23:59:59"
-  timezone: UTC
-  date: September 30, 2019
-  place: EBM
-  sub: SI
-  note: IEEE Journal of Biomedical and Health Informatics (IF - 3.85)
-
 - name: NeurIPS
   year: 2019
   id: neurips2019
@@ -21,7 +10,7 @@
   date: Dec 8-14, 2019
   place: Vancouver Convention Center, Vancouver CANADA
   sub: ML
-  note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-23 18:00:00."
+  note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
 
 - name: CVPR
   year: 2018
@@ -236,3 +225,14 @@
   date: October 21-25, 2019
   place: Nice, France
   sub: CV
+
+- name: Deep Learning in Ultrasound Imaging
+  year: 2019
+  id: ebmdlui
+  link: https://jbhi.embs.org/special-issues/deep-learning-in-ultrasound-imaging/
+  deadline: "2019-04-30 23:59:59"
+  timezone: UTC
+  date: September 30, 2019
+  place: EBM
+  sub: SI
+  note: IEEE Journal of Biomedical and Health Informatics (IF - 3.85)
