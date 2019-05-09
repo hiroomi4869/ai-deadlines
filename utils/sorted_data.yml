@@ -12,6 +12,36 @@
   sub: ML
   note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
 
+- name: AAAI (TBD)
+  year: 2020
+  id: aaai2020
+  link: http://www.aaai.org/aaai20
+  deadline: "2019-09-05 18:00:00"
+  timezone: US/Pacific
+  date: Feb 7 - 20, 2020
+  place: New York Hilton Midtown, New York, United State
+  sub: ML
+
+- name: CVPR (TBD)
+  year: 2020
+  id: cvpr2020
+  link: http://cvpr2020.thecvf.com
+  deadline: "2019-11-16 18:00:00"
+  timezone: US/Pacific
+  date: Jun 13 - 19, 2020
+  place: Seattle, United States
+  sub: CV
+
+- name: ICML (TBD)
+  year: 2020
+  id: icml2020
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-01-23 18:00:00"
+  timezone: US/Pacific
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+
 - name: CVPR
   year: 2018
   id: cvpr18
