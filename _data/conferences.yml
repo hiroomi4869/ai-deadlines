@@ -16,12 +16,12 @@
   year: 2020
   id: wacv20
   link: http://wacv20.wacv.net/
-  deadline: '2019-07-26 23:59:59'
+  deadline: "2019-07-26 23:59:59"
   timezone: America/Los_Angeles
   date: March 2-5, 2020
   place: Snowmass village, Colorado, USA
   sub: CV
-  note: '<b>NOTE</b>: First round submission deadline.'
+  note: "<b>NOTE</b>: First round submission deadline."
 
 - name: AAAI (TBD)
   year: 2020
@@ -32,6 +32,17 @@
   date: Feb 7 - 20, 2020
   place: New York Hilton Midtown, New York, United State
   sub: ML
+
+- name: T-PAMI Special Issue on Graphs in Vision and Pattern Analysis
+  year: 2020
+  id: pamigraph
+  link: http://songbai.site/files/Call-for-Papers.pdf
+  deadline: "2019-10-01 23:59:59"
+  timezone: UTC
+  date: Apr 1, 2020
+  place: T-PAMI
+  sub: SI
+  note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 9.455)
 
 - name: CVPR (TBD)
   year: 2020
