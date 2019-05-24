@@ -1,17 +1,6 @@
 
 ---
 
-- name: NeurIPS
-  year: 2019
-  id: neurips2019
-  link: https://nips.cc/Conferences/2019
-  deadline: "2019-05-23 18:00:00"
-  timezone: US/Pacific
-  date: Dec 8-14, 2019
-  place: Vancouver Convention Center, Vancouver CANADA
-  sub: ML
-  note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
-
 - name: WACV
   year: 2020
   id: wacv20
@@ -288,3 +277,14 @@
   place: EBM
   sub: SI
   note: IEEE Journal of Biomedical and Health Informatics (IF - 3.85)
+
+- name: NeurIPS
+  year: 2019
+  id: neurips2019
+  link: https://nips.cc/Conferences/2019
+  deadline: "2019-05-23 18:00:00"
+  timezone: US/Pacific
+  date: Dec 8-14, 2019
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
