@@ -12,15 +12,16 @@
   sub: CV
   note: "<b>NOTE</b>: First round submission deadline."
 
-- name: AAAI (TBD)
+- name: AAAI
   year: 2020
   id: aaai2020
   link: http://www.aaai.org/aaai20
-  deadline: "2019-09-05 18:00:00"
-  timezone: US/Pacific
+  deadline: "2019-09-05 11:59:00"
+  timezone: US/Hawaii
   date: Feb 7 - 20, 2020
   place: New York Hilton Midtown, New York, United State
   sub: ML
+  note: "<b>NOTE</b>:  Electronic abstracts due at 11:59 PM UTC-10 (midnight Hawaii)."
 
 - name: T-PAMI Call for Graphs in Vision and Pattern Analysis
   year: 2020
