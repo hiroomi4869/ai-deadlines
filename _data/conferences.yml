@@ -32,7 +32,27 @@
   date: Apr 1, 2020
   place: T-PAMI
   sub: SI
-  note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 9.455)
+  note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 17)
+
+- title: ICLR
+  year: 2020
+  id: iclr20
+  link: http://iclr.cc/
+  deadline: '2019-09-25 17:59:59'
+  timezone: 'Africa/Nairobi'
+  date: April 30, 2020
+  place: Addis Ababa, Ethiopia
+  sub: ML
+
+- title: ISBI
+  year: 2020
+  id: isbi20
+  link: http://2020.biomedicalimaging.org/
+  deadline: '2019-10-08 23:59:59'
+  timezone: UTC
+  date: April 3-7, 2020
+  place: Iowa City, USA
+  sub: MIC
 
 - name: CVPR (TBD)
   year: 2020
@@ -53,6 +73,26 @@
   date: Jul 13 - 18, 2020
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
   sub: ML
+
+- name: ECCV (TBD)
+  year: 2020
+  id: eccv20
+  link: http://eccv2020.eu/
+  deadline: "2020-03-14 15:59:00"
+  timezone: America/Los_Angeles
+  date: Aug 23 - 28, 2020
+  place: Glasgow, UK
+  sub: CV
+
+- name: MICCAI (TBD)
+  year: 2020
+  id: miccai2020
+  link: http://www.miccai.org/events/upcoming-conferences/
+  deadline: "2020-03-20 18:00:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
 
 - name: CVPR
   year: 2018
