@@ -23,6 +23,16 @@
   sub: ML
   note: "<b>NOTE</b>:  Electronic abstracts due at 11:59 PM UTC-10 (midnight Hawaii)."
 
+- name: ICLR
+  year: 2020
+  id: iclr20
+  link: http://iclr.cc/
+  deadline: "2019-09-25 17:59:59"
+  timezone: Africa/Nairobi
+  date: April 30, 2020
+  place: Addis Ababa, Ethiopia
+  sub: ML
+
 - name: T-PAMI Call for Graphs in Vision and Pattern Analysis
   year: 2020
   id: pamigraph
@@ -34,21 +44,11 @@
   sub: SI
   note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 17)
 
-- name: ICLR
-  year: 2020
-  id: iclr20
-  link: http://iclr.cc/
-  deadline: '2019-09-25 17:59:59'
-  timezone: 'Africa/Nairobi'
-  date: April 30, 2020
-  place: Addis Ababa, Ethiopia
-  sub: ML
-
 - name: ISBI
   year: 2020
   id: isbi20
   link: http://2020.biomedicalimaging.org/
-  deadline: '2019-10-08 23:59:59'
+  deadline: "2019-10-08 23:59:59"
   timezone: UTC
   date: April 3-7, 2020
   place: Iowa City, USA
