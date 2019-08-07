@@ -1,17 +1,6 @@
 
 ---
 
-- name: WACV
-  year: 2020
-  id: wacv20
-  link: http://wacv20.wacv.net/
-  deadline: "2019-07-26 23:59:59"
-  timezone: America/Los_Angeles
-  date: March 2-5, 2020
-  place: Snowmass village, Colorado, USA
-  sub: CV
-  note: "<b>NOTE</b>: First round submission deadline."
-
 - name: AAAI
   year: 2020
   id: aaai2020
@@ -72,6 +61,16 @@
   timezone: US/Pacific
   date: Jul 13 - 18, 2020
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+
+- name: KDD (TBD)
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: "2020-02-03 23:59:59"
+  timezone: America/Los_Angeles
+  date: August 22-27, 2020
+  place: San Diego Convention Center, San Diego, California - USA
   sub: ML
 
 - name: ECCV (TBD)
@@ -329,3 +328,14 @@
   place: Vancouver Convention Center, Vancouver CANADA
   sub: ML
   note: "<b>NOTE</b>: Mandatory abstract deadline: Pacific Time, 2019-05-16 18:00:00."
+
+- name: WACV
+  year: 2020
+  id: wacv20
+  link: http://wacv20.wacv.net/
+  deadline: "2019-07-26 23:59:59"
+  timezone: America/Los_Angeles
+  date: March 2-5, 2020
+  place: Snowmass village, Colorado, USA
+  sub: CV
+  note: "<b>NOTE</b>: First round submission deadline."
