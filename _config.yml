@@ -5,10 +5,10 @@ description: Countdowns to top ML / CV / MIC conference and special issue deadli
 author: YANG Jiancheng
 maintainers: duducheng
 
-domain: "creedai.github.io/ai-deadlines/"
+domain: "m3dv.github.io/ai-deadlines/"
 baseurl: "ai-deadlines"
 
-github_username: creedai
+github_username: m3dv
 github_repo: ai-deadlines
 
 markdown: kramdown
