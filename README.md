@@ -1,6 +1,6 @@
 ## AI Deadlines
 
-Top AI deadline countdowns (with an emphasis on medical images).
+Top AI deadline countdowns (with an emphasis on computer vision and medical images).
 
 Acknowledge: [Original Repo](https://github.com/abhshkdz/ai-deadlines)
 
