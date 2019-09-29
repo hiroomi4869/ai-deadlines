@@ -1,16 +1,6 @@
 
 ---
 
-- name: ICLR
-  year: 2020
-  id: iclr20
-  link: http://iclr.cc/
-  deadline: "2019-09-25 17:59:59"
-  timezone: Africa/Nairobi
-  date: April 30, 2020
-  place: Addis Ababa, Ethiopia
-  sub: ML
-
 - name: T-PAMI Call for Graphs in Vision and Pattern Analysis
   year: 2020
   id: pamigraph
@@ -350,3 +340,13 @@
   place: New York Hilton Midtown, New York, United State
   sub: ML
   note: "<b>NOTE</b>:  Electronic abstracts due at 11:59 PM UTC-10 (midnight Hawaii)."
+
+- name: ICLR
+  year: 2020
+  id: iclr20
+  link: http://iclr.cc/
+  deadline: "2019-09-25 17:59:59"
+  timezone: Africa/Nairobi
+  date: April 30, 2020
+  place: Addis Ababa, Ethiopia
+  sub: ML
