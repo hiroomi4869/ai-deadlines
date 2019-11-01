@@ -61,6 +61,17 @@
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
   sub: MIC
+  
+  
+- name: NeurIPS (TBD)
+  year: 2020
+  id: neurips2020
+  link: https://nips.cc/
+  deadline: "2020-05-16 18:00:00"
+  timezone: US/Pacific
+  date: TBD
+  place: TBD
+  sub: ML
 
 - name: CVPR
   year: 2018
