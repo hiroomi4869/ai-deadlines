@@ -1,27 +1,6 @@
 
 ---
 
-- name: T-PAMI Call for Graphs in Vision and Pattern Analysis
-  year: 2020
-  id: pamigraph
-  link: http://songbai.site/files/Call-for-Papers.pdf
-  deadline: "2019-10-01 23:59:59"
-  timezone: UTC
-  date: Apr 1, 2020
-  place: T-PAMI
-  sub: SI
-  note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 17)
-
-- name: ISBI
-  year: 2020
-  id: isbi20
-  link: http://2020.biomedicalimaging.org/
-  deadline: "2019-10-08 23:59:59"
-  timezone: UTC
-  date: April 3-7, 2020
-  place: Iowa City, USA
-  sub: MIC
-
 - name: CVPR
   year: 2020
   id: cvpr2020
@@ -92,6 +71,17 @@
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
   sub: MIC
+  
+  
+- name: NeurIPS (TBD)
+  year: 2020
+  id: neurips2020
+  link: https://nips.cc/
+  deadline: "2020-05-16 18:00:00"
+  timezone: US/Pacific
+  date: TBD
+  place: TBD
+  sub: ML
 
 - name: RSNA-abstract (TBD)
   year: 2020
@@ -370,3 +360,24 @@
   date: April 30, 2020
   place: Addis Ababa, Ethiopia
   sub: ML
+
+- name: T-PAMI Call for Graphs in Vision and Pattern Analysis
+  year: 2020
+  id: pamigraph
+  link: http://songbai.site/files/Call-for-Papers.pdf
+  deadline: "2019-10-01 23:59:59"
+  timezone: UTC
+  date: Apr 1, 2020
+  place: T-PAMI
+  sub: SI
+  note: IEEE Transactions on Pattern Analysis and Machine Intelligence (IF - 17)
+
+- name: ISBI
+  year: 2020
+  id: isbi20
+  link: http://2020.biomedicalimaging.org/
+  deadline: "2019-10-08 23:59:59"
+  timezone: UTC
+  date: April 3-7, 2020
+  place: Iowa City, USA
+  sub: MIC
