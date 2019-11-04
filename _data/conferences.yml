@@ -63,6 +63,16 @@
   place: San Diego Convention Center, San Diego, California - USA
   sub: ML
 
+- name: ASCO-abstract
+  year: 2020
+  id: asco2020
+  link: https://meetings.asco.org/am/abstracts
+  deadline: "2020-02-11 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 29 - June 2, 2020
+  place: Chicago, IL
+  sub: MIC
+
 - name: ECCV (TBD)
   year: 2020
   id: eccv20
@@ -81,6 +91,16 @@
   timezone: US/Pacific
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
+  sub: MIC
+
+- name: RSNA-abstract (TBD)
+  year: 2020
+  id: rsna2020
+  link: https://www.rsna.org/annual-meeting/abstract-submission
+  deadline: "2020-04-10 18:00:00"
+  timezone: US/Pacific
+  date: Nov 29 - Dec 4, 2020
+  place: McCormick Place, Chicago, Illinois
   sub: MIC
 
 - name: CVPR
