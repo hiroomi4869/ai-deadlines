@@ -33,16 +33,27 @@
   place: San Diego Convention Center, San Diego, California - USA
   sub: ML
 
-- name: ICML
+- name: ICML-abstract
   year: 2020
   id: icml2020
   link: https://icml.cc/Conferences/2020
-  deadline: "2020-02-07 18:00:00"
+  deadline: "2020-01-31 03:59:00"
   timezone: America/Los_Angeles
   date: Jul 13 - 18, 2020
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
   sub: ML
-  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m. America/Los_Angeles"
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
+
+- name: ICML
+  year: 2020
+  id: icml2020
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-02-07 03:59:00"
+  timezone: America/Los_Angeles
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m. "
 
 - name: ASCO-abstract
   year: 2020
