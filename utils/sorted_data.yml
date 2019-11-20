@@ -1,16 +1,6 @@
 
 ---
 
-- name: CVPR
-  year: 2020
-  id: cvpr2020
-  link: http://cvpr2020.thecvf.com
-  deadline: "2019-11-15 23:59:00"
-  timezone: US/Pacific
-  date: Jun 13 - 19, 2020
-  place: Seattle, United States
-  sub: CV
-
 - name: IJCAI
   year: 2020
   id: ijcai2020
@@ -22,15 +12,16 @@
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: January 15, 2020 (11:59PM UTC-12)"
 
-- name: ICML (TBD)
+- name: ICML-abstract
   year: 2020
-  id: icml2020
+  id: icml2020-abs
   link: https://icml.cc/Conferences/2020
-  deadline: "2020-01-23 18:00:00"
-  timezone: US/Pacific
+  deadline: "2020-01-31 03:59:00"
+  timezone: America/Los_Angeles
   date: Jul 13 - 18, 2020
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
   sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
 
 - name: KDD (TBD)
   year: 2020
@@ -41,6 +32,27 @@
   date: August 22-27, 2020
   place: San Diego Convention Center, San Diego, California - USA
   sub: ML
+
+- name: ICML
+  year: 2020
+  id: icml2020
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-02-07 03:59:00"
+  timezone: America/Los_Angeles
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m. "
+
+- name: ASCO-abstract
+  year: 2020
+  id: asco2020
+  link: https://meetings.asco.org/am/abstracts
+  deadline: "2020-02-11 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 29 - June 2, 2020
+  place: Chicago, IL
+  sub: MIC
 
 - name: ECCV (TBD)
   year: 2020
@@ -61,6 +73,26 @@
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
   sub: MIC
+
+- name: RSNA-abstract (TBD)
+  year: 2020
+  id: rsna2020
+  link: https://www.rsna.org/annual-meeting/abstract-submission
+  deadline: "2020-04-10 18:00:00"
+  timezone: US/Pacific
+  date: Nov 29 - Dec 4, 2020
+  place: McCormick Place, Chicago, Illinois
+  sub: MIC
+
+- name: NeurIPS (TBD)
+  year: 2020
+  id: neurips2020
+  link: https://nips.cc/
+  deadline: "2020-05-16 18:00:00"
+  timezone: US/Pacific
+  date: TBD
+  place: TBD
+  sub: ML
 
 - name: CVPR
   year: 2018
@@ -350,3 +382,13 @@
   date: April 3-7, 2020
   place: Iowa City, USA
   sub: MIC
+
+- name: CVPR
+  year: 2020
+  id: cvpr2020
+  link: http://cvpr2020.thecvf.com
+  deadline: "2019-11-15 23:59:00"
+  timezone: US/Pacific
+  date: Jun 13 - 19, 2020
+  place: Seattle, United States
+  sub: CV

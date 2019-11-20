@@ -1,16 +1,6 @@
 
 ---
 
-- name: CVPR
-  year: 2020
-  id: cvpr2020
-  link: http://cvpr2020.thecvf.com
-  deadline: "2019-11-15 23:59:00"
-  timezone: US/Pacific
-  date: Jun 13 - 19, 2020
-  place: Seattle, United States
-  sub: CV
-
 - name: IJCAI
   year: 2020
   id: ijcai2020
@@ -22,17 +12,6 @@
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: January 15, 2020 (11:59PM UTC-12)"
 
-
-- name: KDD (TBD)
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: "2020-02-03 23:59:59"
-  timezone: America/Los_Angeles
-  date: August 22-27, 2020
-  place: San Diego Convention Center, San Diego, California - USA
-  sub: ML
-
 - name: ICML-abstract
   year: 2020
   id: icml2020-abs
@@ -43,6 +22,16 @@
   place: Messe Wien Exhibition & Congress Center, Vienna, Austria
   sub: ML
   note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
+
+- name: KDD (TBD)
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: "2020-02-03 23:59:59"
+  timezone: America/Los_Angeles
+  date: August 22-27, 2020
+  place: San Diego Convention Center, San Diego, California - USA
+  sub: ML
 
 - name: ICML
   year: 2020
@@ -85,7 +74,6 @@
   place: San Miguel, Lima, Peru
   sub: MIC
 
-
 - name: RSNA-abstract (TBD)
   year: 2020
   id: rsna2020
@@ -95,8 +83,7 @@
   date: Nov 29 - Dec 4, 2020
   place: McCormick Place, Chicago, Illinois
   sub: MIC
-  
-  
+
 - name: NeurIPS (TBD)
   year: 2020
   id: neurips2020
@@ -395,3 +382,13 @@
   date: April 3-7, 2020
   place: Iowa City, USA
   sub: MIC
+
+- name: CVPR
+  year: 2020
+  id: cvpr2020
+  link: http://cvpr2020.thecvf.com
+  deadline: "2019-11-15 23:59:00"
+  timezone: US/Pacific
+  date: Jun 13 - 19, 2020
+  place: Seattle, United States
+  sub: CV
