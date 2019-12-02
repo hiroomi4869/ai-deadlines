@@ -1,4 +1,8 @@
 ---
+- name: Security
+  sub: Security
+- name: Network
+  sub: Network
 - name: Machine Learning
   sub: ML
 - name: Computer Vision
@@ -7,8 +11,3 @@
   sub: MIC
 - name: Special Issues
   sub: SI
-- name: Security
-  sub: Security
-- name: Network
-  sub: Network
- 
