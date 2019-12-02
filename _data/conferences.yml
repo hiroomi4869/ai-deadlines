@@ -1,6 +1,6 @@
 
 ---
-- title: IEEE S&P
+- name: IEEE S&P
   year: 2020
   id: s&p20
   link: http://www.ieee-security.org/TC/SP2020/index.html
@@ -10,7 +10,7 @@
   place: San Francisco, CA, USA
   sub: Security
 
-- title: Usenix Sec
+- name: Usenix Sec
   year: 2020
   id: sec20
   link: https://www.usenix.org/conference/usenixsecurity20
@@ -20,7 +20,7 @@
   place: BOSTON, MA, USA
   sub: Security
 
-- title: PETS
+- name: PETS
   year: 2020
   id: ptes20
   link: https://petsymposium.org/
@@ -30,7 +30,7 @@
   place: Montréal, Canada
   sub: Security
   
-- title: DSN
+- name: DSN
   year: 2020
   id: dns20
   link: https://dsn2020.webs.upv.es/
@@ -40,7 +40,7 @@
   place: Science Park of the Universitat Politècnica de València, Spain
   sub: Security
 
-- title: CSF
+- name: CSF
   year: 2020
   id: csf20
   link: https://www.ieee-security.org/TC/CSF2020/
@@ -50,7 +50,7 @@
   place: Boston, MA, USA
   sub: Security
   
-- title: ASIACCS
+- name: ASIACCS
   year: 2020
   id: asiaccs20
   link: https://asiaccs2020.cs.nthu.edu.tw/
@@ -60,7 +60,7 @@
   place: Taipei, China
   sub: Security
   
-- title: ANCS
+- name: ANCS
   year: 2020
   id: ancs20
   link: https://sites.google.com/di.uniroma1.it/ACNS2020
@@ -70,7 +70,7 @@
   place: Rome, Italy
   sub: Security
 
-- title: SIGCOMM
+- name: SIGCOMM
   year: 2020
   id: sigcomm20
   link: https://conferences.sigcomm.org/sigcomm/2020/
