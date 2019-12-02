@@ -1,6 +1,85 @@
 
 ---
+- title: IEEE S&P
+  year: 2020
+  id: s&p20
+  link: http://www.ieee-security.org/TC/SP2020/index.html
+  deadline: '2019-12-01 23:59:59'
+  timezone: UTC-12
+  date: May 18-20, 2020
+  place: San Francisco, CA, USA
+  sub: Security
 
+- title: Usenix Sec
+  year: 2020
+  id: sec20
+  link: https://www.usenix.org/conference/usenixsecurity20
+  deadline: '2020-02-15 23:59:59'
+  timezone: UTC-12
+  date: AUGUST 12–14, 2020
+  place: BOSTON, MA, USA
+  sub: Security
+
+- title: PETS
+  year: 2020
+  id: ptes20
+  link: https://petsymposium.org/
+  deadline: '2020-02-29 23:59:59'
+  timezone: UTC-12
+  date: July 14–18, 2020
+  place: Montréal, Canada
+  sub: Security
+  
+- title: DSN
+  year: 2020
+  id: dns20
+  link: https://dsn2020.webs.upv.es/
+  deadline: '2019-12-13 23:59:59'
+  timezone: UTC-12
+  date:  29 June - 2 July, 2020
+  place: Science Park of the Universitat Politècnica de València, Spain
+  sub: Security
+
+- title: CSF
+  year: 2020
+  id: csf20
+  link: https://www.ieee-security.org/TC/CSF2020/
+  deadline: '2020-02-07 23:59:59'
+  timezone: UTC-12
+  date:  June 22-26, 2020
+  place: Boston, MA, USA
+  sub: Security
+  
+- title: ASIACCS
+  year: 2020
+  id: asiaccs20
+  link: https://asiaccs2020.cs.nthu.edu.tw/
+  deadline: '2020-12-10 23:59:59'
+  timezone: UTC-12
+  date:  June 1-5, 2020
+  place: Taipei, China
+  sub: Security
+  
+- title: ANCS
+  year: 2020
+  id: ancs20
+  link: https://sites.google.com/di.uniroma1.it/ACNS2020
+  deadline: '2020-01-20 23:59:59'
+  timezone: UTC-12
+  date:  June 22-25, 2020
+  place: Rome, Italy
+  sub: Security
+
+- title: SIGCOMM
+  year: 2020
+  id: sigcomm20
+  link: https://conferences.sigcomm.org/sigcomm/2020/
+  deadline: '2020-02-07 23:59:59'
+  timezone: UTC-12
+  date: August 10-14, 2020
+  place: Columbia University, New York City, USA
+  sub: Network
+  
 - name: IJCAI
   year: 2020
   id: ijcai2020
